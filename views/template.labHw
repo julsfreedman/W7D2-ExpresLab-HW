@@ -1,0 +1,11 @@
+<head>
+#title#
+</head>
+<body>
+<style>
+body {background: Plum}
+</style>
+<header>#message#</header>
+#content#
+#content2#
+</body>
